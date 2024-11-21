@@ -17,7 +17,7 @@ jobs:
           commit_message: 'chore(dist): Update dist [automated commit]'
           commit_user_name: cobraz
           commit_user_email: cobraz@users.noreply.github.com
-      - uses: GoogleCloudPlatform/release-please-action@v2.34
+      - uses: GoogleCloudPlatform/release-please-action@v3.7
         id: release
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
