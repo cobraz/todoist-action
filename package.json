@@ -40,7 +40,7 @@
     "graphql-request": "^3.4.0",
     "husky": "^6.0.0",
     "runtypes": "^6.2.1",
-    "todoist": "^0.5.0"
+    "todoist": "^1.1.0"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^1.21.4",

@@ -7246,10 +7246,10 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-todoist@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/todoist/-/todoist-0.5.0.tgz#75c8741eb84e7f22733feafda6f09acd30b67c14"
-  integrity sha512-/xB70q2VH/THSsNEAV/TtdZ3hLQs0iLZ4WW0wpx4IHPTM12C8u6PhOX9wcGCYe1T2koitXSo7tZlaop3nBtx/Q==
+todoist@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/todoist/-/todoist-1.1.0.tgz#a37754ad649e9ba8a5ed416f0679fa233c98214e"
+  integrity sha512-eOD7xwbni/HmG2rtMIwhxpiXtB1PP22BLeX4n38LgOVIZDn8cqwv3qAa15CZClRCn0ww//892YMupAWv8P+gJw==
   dependencies:
     got "^11.3.0"
     uuid "^8.1.0"
