@@ -35,7 +35,7 @@
   "dependencies": {
     "@actions/core": "^1.10.0",
     "@adobe/node-fetch-retry": "^1.1.0",
-    "deep-equal": "^2.0.5",
+    "deep-equal": "^2.2.0",
     "graphql": "^15.4.0",
     "graphql-request": "^3.4.0",
     "husky": "^6.0.0",
