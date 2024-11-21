@@ -39,7 +39,7 @@
     "graphql": "^15.4.0",
     "graphql-request": "^3.4.0",
     "husky": "^6.0.0",
-    "runtypes": "^6.2.1",
+    "runtypes": "^6.6.0",
     "todoist": "^0.5.0"
   },
   "devDependencies": {
